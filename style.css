@@ -1,0 +1,21 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+
+body{
+    color: goldenrod;
+    background-image: linear-gradient(to top left, #0004ff 0%, #ff0000 100%);
+}
+
+.name_of_objects, #result_object, #result_accuracy{
+    font-size: 20px;
+    color: aqua;
+}
+
+#camera{
+    border: 2px dashed chartreuse;
+    width: 370px;
+    height: 300px;
+
+}
